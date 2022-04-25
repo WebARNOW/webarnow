@@ -44,21 +44,21 @@
 ## WebAR界隈の方々（ご本人公認）
 |  お名前  |  詳細リンク  | 公式URL  |
 | ---- | ---- | ---- |
-|  TD  |  TD  | TD  | 
-|  TD  |  TD  | TD  |
-|  TD  |  TD  | TD  |
-|  TD  |  TD  | TD  |
-|  TD  |  TD  | TD  |
+|  募集中  |  TD  | TD  | 
+|  募集中  |  TD  | TD  |
+|  募集中  |  TD  | TD  |
+|  募集中  |  TD  | TD  |
+|  募集中  |  TD  | TD  |
 
 ## WebAR開発会社（会社公認）
 
 |  会社名  |  詳細リンク  | 公式URL  |
 | ---- | ---- | ---- |
-|  TD  |  TD  | TD  | 
-|  TD  |  TD  | TD  |
-|  TD  |  TD  | TD  |
-|  TD  |  TD  | TD  |
-|  TD  |  TD  | TD  |
+|  募集中  |  TD  | TD  | 
+|  募集中  |  TD  | TD  |
+|  募集中  |  TD  | TD  |
+|  募集中  |  TD  | TD  |
+|  募集中  |  TD  | TD  |
 
 
 <!--
