@@ -4,23 +4,22 @@
 ## WebARプラットフォーム一覧
 |  プラットフォーム  |  詳細リンク  | 公式URL  |
 | ---- | ---- | ---- |
-|  8thwall  |  TD  | TD  | 
-|  Blipper  |  TD  | TD  |
-|  Zapper  |  TD  | TD  |
-|  Geenee AR  |  TD  | TD  |
+|  8thwall  |  soon  | https://www.8thwall.com/  | 
+|  Blipper  |  soon  | https://www.blippar.com/  |
+|  Zapper  |  soon  | https://www.zappar.com/  |
+|  Geenee AR  |  soon  | https://geenee.ar/  |
 |  TD  |  TD  | TD  |
 |  TD  |  TD  | TD  |
 
 ## WebAR周辺技術
 |  技術  |  詳細リンク  | 公式URL  |
 | ---- | ---- | ---- |
-|  AR.js  |  TD  | TD  | 
-|  Three.js  |  TD  | TD  |
-|  AFRAME  |  TD  | TD  |
-|  Babylon.js  |  TD  | TD  |
-|  AR Quick Look  |  TD  | TD  |
-|  WebXR Device API  |  TD  | TD  |
-|  3DCG  |  TD  | TD  |
+|  AR.js  |  TD  | https://ar-js-org.github.io/AR.js-Docs/  | 
+|  Three.js  |  TD  | https://threejs.org/  |
+|  AFRAME  |  TD  | https://aframe.io/  |
+|  Babylon.js  |  TD  | https://www.babylonjs.com/  |
+|  AR Quick Look  |  TD  | https://developer.apple.com/jp/augmented-reality/quick-look/  |
+|  WebXR Device API  |  TD  | https://developer.mozilla.org/ja/docs/Web/API/WebXR_Device_API |
 
 
 ## WebARを取り巻くコミュニティ
