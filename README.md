@@ -1,3 +1,5 @@
+[![WebARNOW thumbnail](https://github.com/WebARNOW/webarnow/edit/main/README.png)](https://twitter.com/webarnow)
+
 # Hi there 👋
 こんにちは！WebARNOWです！
 少しずつ追加＋修正していこうと思っています！
