@@ -16,15 +16,17 @@
 | ---- | ---- | ---- |
 |  AR.js  |  TD  | TD  | 
 |  Three.js  |  TD  | TD  |
+|  AFRAME  |  TD  | TD  |
 |  Babylon.js  |  TD  | TD  |
-|  WebXRdeviceAPI  |  TD  | TD  |
+|  AR Quick Look  |  TD  | TD  |
+|  WebXR Device API  |  TD  | TD  |
 |  3DCG  |  TD  | TD  |
 
 
 ## WebARを取り巻くコミュニティ
 |  コミュニティ  |  詳細リンク  | 公式URL  |
 | ---- | ---- | ---- |
-|  W3C  |  TD  | TD  | 
+|  W3C Immersive Web Working Group  |  TD  | https://www.w3.org/immersive-web/  | 
 |  TD  |  TD  | TD  |
 |  TD  |  TD  | TD  |
 |  TD  |  TD  | TD  |
@@ -39,7 +41,15 @@
 |  TD  |  TD  | TD  |
 |  TD  |  TD  | TD  |
 
-## WebAR開発会社（ご本人公認）
+## WebAR開発会社（会社公認）
+
+|  会社名  |  詳細リンク  | 公式URL  |
+| ---- | ---- | ---- |
+|  TD  |  TD  | TD  | 
+|  TD  |  TD  | TD  |
+|  TD  |  TD  | TD  |
+|  TD  |  TD  | TD  |
+|  TD  |  TD  | TD  |
 
 
 <!--
