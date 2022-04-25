@@ -1,4 +1,4 @@
-[![WebARNOW thumbnail](https://github.com/WebARNOW/webarnow/edit/main/README.png)](https://twitter.com/webarnow)
+[![WebARNOW thumbnail](https://ethan-dev.sakura.ne.jp/webarnow/img/webar-now-jp.jpg)](https://twitter.com/webarnow)
 
 # Hi there 👋
 こんにちは！WebARNOWです！
