@@ -7,7 +7,7 @@
 ## WebARプラットフォーム一覧
 |  プラットフォーム  |  詳細リンク  | 公式URL  |
 | ---- | ---- | ---- |
-| 【🇯🇵】PalanAR | ---- | https://palanar.com/ |
+| 🇯🇵PalanAR | ---- | https://palanar.com/ |
 |  8thwall  |  soon  | https://www.8thwall.com/  | 
 |  Blipper  |  soon  | https://www.blippar.com/  |
 |  Zapper  |  soon  | https://www.zappar.com/  |
