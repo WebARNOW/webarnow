@@ -1,6 +1,7 @@
 [![WebARNOW thumbnail](https://ethan-dev.sakura.ne.jp/webarnow/img/webarnow.jpg)](https://twitter.com/webarnow)
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-https://img.shields.io/twitter/url?color=blue&label=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fwebarnow
+[![Twitter](https://img.shields.io/twitter/url?color=blue&label=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fwebarnow)](https://twitter.com/webarnow)
+
 
 
 # WebARNOWの紹介 👋
