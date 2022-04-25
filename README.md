@@ -4,7 +4,7 @@
 
 
 
-# WebARNOWの紹介 👋
+# About WebARNOW 👋
 こんにちは！WebARNOWです！<br>
 WebARのHUBとしてgithubを立ち上げました！<br>
 少しずつ追加＋修正していこうと思っています！<br>
