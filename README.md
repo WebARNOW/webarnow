@@ -1,4 +1,4 @@
-[![WebARNOW thumbnail](https://ethan-dev.sakura.ne.jp/webarnow/img/webarnow-thum.jpg)](https://twitter.com/webarnow)
+[![WebARNOW thumbnail](https://ethan-dev.sakura.ne.jp/webarnow/img/webarnow.jpg)](https://twitter.com/webarnow)
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
 
